@@ -20,7 +20,7 @@
       <td width="60%">
         
 ```javascript
-const abhinav = {
+const rozy = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "Java", "C++", "C"],
     askMeAbout: ["web dev", "backend", "databases"],
@@ -70,7 +70,7 @@ const abhinav = {
       <td align="center" width="20%">
         <img src="https://img.icons8.com/dusk/64/000000/email.png" width="50"/>
         <br><strong>Contact</strong>
-        <br>abhinavt00001@gmail.com
+        <br>rozykoranga@gmail.com
       </td>
     </tr>
   </table>
@@ -94,12 +94,12 @@ const abhinav = {
         </a>
       </td>
       <td align="center">
-        <a href="https://instagram.com/echo_abhinav">
+        <a href="https://instagram.com/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/echoAbhinav">
+        <a href="https://linkedin.com/in/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
         </a>
       </td>
@@ -111,12 +111,12 @@ const abhinav = {
         </a>
       </td>
       <td align="center">
-        <a href="https://pinterest.com/abhinavt00001">
+        <a href="https://pinterest.com/t">
           <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&style=flat-square" alt="Pinterest"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://www.snapchat.com/add/echoabhinav">
+        <a href="https://www.snapchat.com/add/">
           <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black&style=flat-square" alt="Snapchat"/>
         </a>
       </td>
@@ -188,17 +188,17 @@ const abhinav = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=echoAbhinav&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=echoAbhinav&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user==&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoAbhinav&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
 </div>
 
 <br>
@@ -210,7 +210,7 @@ const abhinav = {
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=echoAbhinav&custom_title=Abhinav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username==&custom_title=='s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br>
@@ -222,7 +222,7 @@ const abhinav = {
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=echoAbhinav&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -246,7 +246,7 @@ const abhinav = {
 ## 📈 **Contribution Stats**
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=echoAbhinav&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
 </div>
 
 <br>
@@ -260,7 +260,7 @@ const abhinav = {
 <div align="center">
   <h3>If you like what I do, maybe consider buying me a coffee! <h3>
   
-  <a href="https://buymeacoffee.com/echoAbhinav" target="_blank">
+  <a href="https://buymeacoffee.com/" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
@@ -276,5 +276,5 @@ const abhinav = {
 <div align="center">
   <h2>Show some ❤️ by starring some of the repositories</h2>
   
-  <img src="https://komarev.com/ghpvc/?username=echoAbhinav&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
